@@ -1,9 +1,15 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
+  - title: "Immersion"
+    url: /immersive-Experiences/
+  - title: "Gamification"
+    url: /serious-gaming/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Our Name"
+    url: /our-name/
+  - title: "Research"
+    url: /research/
+  - title: "Mission"
+    url: /mission/
+  - title: "Home"
+    url: /

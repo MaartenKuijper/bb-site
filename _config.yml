@@ -13,15 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: BeatBix
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Sound Field Control
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: sunrise
 search: true
 
 # Build settings
@@ -56,6 +54,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-livereload
 
 author:
   name   : "First Lastname"
@@ -113,3 +112,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+logo: /assets/images/logo.png
+masthead_title: " "
+
+
