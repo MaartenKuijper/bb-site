@@ -7,3 +7,16 @@ layout: home
 We are dedicated to...
 
 <!-- Add more content as needed -->
+<header class="header">
+  <div class="hero">
+    <img src="{{ site.url }}/assets/images/home-jazz.png" alt="Widescreen Image">
+    <div class="hero-text">
+      <h1>{{ site.title }}</h1>
+      <p>Your Company's Mission Statement or Tagline</p>
+    </div>
+  </div>
+</header>
+
+<main class="main-content">
+  <!-- Your homepage content goes here -->
+</main>
